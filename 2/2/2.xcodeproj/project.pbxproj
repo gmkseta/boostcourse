@@ -13,6 +13,7 @@
 		C07D946B2200A27E004078B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C07D946A2200A27E004078B4 /* Assets.xcassets */; };
 		C07D946E2200A27E004078B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C07D946C2200A27E004078B4 /* LaunchScreen.storyboard */; };
 		C07D94842200A45C004078B4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07D94832200A45C004078B4 /* SecondViewController.swift */; };
+		C0ABFA1B220C6942007AE245 /* UserInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0ABFA1A220C6942007AE245 /* UserInformation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		C07D946F2200A27E004078B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C07D94822200A3DA004078B4 /* 2 copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "2 copy-Info.plist"; path = "/Users/gmkseta/Repository/swift/boostcourse/2/2/2 copy-Info.plist"; sourceTree = "<absolute>"; };
 		C07D94832200A45C004078B4 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		C0ABFA1A220C6942007AE245 /* UserInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInformation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		C07D94572200A27D004078B4 = {
 			isa = PBXGroup;
 			children = (
+				C0ABFA1A220C6942007AE245 /* UserInformation.swift */,
 				C07D94832200A45C004078B4 /* SecondViewController.swift */,
 				C07D94622200A27D004078B4 /* 2 */,
 				C07D94612200A27D004078B4 /* Products */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C07D94842200A45C004078B4 /* SecondViewController.swift in Sources */,
+				C0ABFA1B220C6942007AE245 /* UserInformation.swift in Sources */,
 				C07D94662200A27D004078B4 /* ViewController.swift in Sources */,
 				C07D94642200A27D004078B4 /* AppDelegate.swift in Sources */,
 			);
